@@ -8,9 +8,9 @@ Operational Efficiency: Predictive modeling enables airlines to proactively iden
 Competitive Advantage: Airlines that prioritize customer satisfaction gain a competitive edge by fostering customer loyalty and positive brand perception in a highly competitive industry.
 
 ## Used technologies:
-Google colab
-Pandas
-Numpy
-Scikit-learn
-Seaborn
-Matplotlib
+- Google colab
+- Pandas
+- Numpy
+- Scikit-learn
+- Seaborn
+- Matplotlib
